@@ -3,8 +3,8 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   base: '/ifal/',
-  title: "IFAL Chatbot",
-  description: "IFAL Chatbot",
+  title: "Neo Chatbots",
+  description: "Neo Chatbots",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [

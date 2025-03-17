@@ -20,7 +20,7 @@ features:
     details: Este chatbot não possui nenhum vínculo oficial com o IFAL e é uma ferramenta independente
   - icon: ⚠️
     title: Possibilidade de Erros
-    details: O chatbot pode fornecer respostas incorretas ou desatualizadas, e os usuários(alunos ou servidores) devem verificar as informações fornecidas.
+    details: O chatbot pode fornecer respostas incorretas ou desatualizadas, e os usuários devem verificar as informações fornecidas.
   - icon: ⚡
     title: Atendimento Rápido
     details: O chatbot oferece respostas rápidas e precisas para as perguntas frequentes, economizando tempo e esforço.

@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "vitepress": "^1.6.3"
+  },
+  "scripts": {
+    "docs:dev": "vitepress dev ifal",
+    "docs:build": "vitepress build ifal",
+    "docs:preview": "vitepress preview ifal"
+  }
+}

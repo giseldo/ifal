@@ -1,4 +1,4 @@
-<p><a href="regimento.pdf">Baixar o Regimento utilizado</a></p>
+<p><a href="regimento.pdf" download>Baixar o Regimento utilizado</a></p>
 
 <iframe 
 	src="https://giseldo-chatbot-ifal-regimento.hf.space"

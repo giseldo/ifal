@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "IFAL "
+  name: "Neo"
   text: "Chatbot"
   tagline: Chatbots que respondem perguntas 
   actions:

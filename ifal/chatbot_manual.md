@@ -1,4 +1,4 @@
-<p><a href="manual.pdf" download>Baixar o manual do aluno utilizado</a></p>
+<p><a href="https://raw.githubusercontent.com/giseldo/ifal/master/manual.pdf" download>Baixar o manual do aluno utilizado</a></p>
 
 <iframe 
 	src="https://giseldo-chatbot-ifal.hf.space"

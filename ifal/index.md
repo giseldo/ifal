@@ -8,10 +8,10 @@ hero:
   tagline: Chatbots que respondem perguntas 
   actions:
     - theme: brand
-      text: "⚖️ Chatbot com base no regimento do ifal"
+      text: "⚖️ Chatbot com base no regimento do IFAL"
       link: /chatbot_regimento
     - theme: brand
-      text: "📘 Chatbot com base no manual do aluno do ifal maceio"
+      text: "📘 Chatbot com base no manual do aluno do IFAL maceio"
       link: /chatbot_manual
 
 features:

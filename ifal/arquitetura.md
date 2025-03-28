@@ -7,7 +7,6 @@
     - Prompt fornecido pelo usuário
     - Dados recuperados do Banco de Dados RAG
 
-
 A combinação desses elementos gera a resposta final
 
 ![Arquitetura](image.png)

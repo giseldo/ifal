@@ -12,7 +12,6 @@ hero:
       text: "Manual do Aluno"
       link: /chatbot_manual
      
-
 features:
   - icon: ❗
     title: Independente do IFAL
@@ -32,10 +31,9 @@ features:
   - icon: 😊
     title: Interface Amigável
     details: Com uma interface intuitiva e fácil de usar, o chatbot proporciona uma experiência agradável.
-
 ---
 
 <footer style="text-align: center; padding: 1em 0; ">
-  <p style="margin: 0;">Criado por <strong>Giseldo Neo</strong></p>
+  <p style="margin: 0;">Criado por <strong>Giseldo Neo</strong> (contato: giseldo@gmail.com)</p>
 </footer>
 

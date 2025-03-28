@@ -3,11 +3,14 @@
 layout: home
 
 hero:
-  name: "Neo Chatbot Integra"
+  name: "Neo Chatbots"
   actions:
     - theme: brand
-      text: "Acessar"
+      text: "Integra"
       link: /chatbot_integra
+    - theme: brand
+      text: "Manual do Aluno"
+      link: /chatbot_manual
      
 
 features:
